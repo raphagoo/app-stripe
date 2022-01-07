@@ -19,7 +19,7 @@ Here is a more complete [description](./description.md).
 
 ```bash
 # Clone this repo
-git clone https://github.com/psancho/vue-starter.git vue-starter
+git clone git@github.com:raphagoo/app-stripe.git
 
 # change directory to your app
 cd vue-starter
