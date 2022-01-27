@@ -24,7 +24,6 @@
         "@vue-stripe/vue-stripe": "^4.2.9",
         "axios": "^0.21.1",
         "deepmerge": "^4.2.2",
-        "fibers": "^5.0.0",
         "moment": "^2.29.1",
         "sweetalert2": "^10.16.4",
         "vue": "^2.6.12",

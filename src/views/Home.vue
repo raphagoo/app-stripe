@@ -71,7 +71,7 @@ export default {
                 },
                 {
                     quantity: 1,
-                    price: "price_1KFIfAJrsFsbQyAcQAR6izE5"
+                    price: "price_1KKoOdJrsFsbQyAcB44nvhjG"
                 }
             ],
             basket: [
@@ -85,7 +85,7 @@ export default {
                     name: 'Jean gris',
                     picture: './assets/jean.jpg',
                     quantity: 1,
-                    price: "50 €"
+                    price: "59, 98 €"
                 }
             ]
         }
